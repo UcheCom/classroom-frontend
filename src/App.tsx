@@ -15,7 +15,6 @@ import { dataProvider } from "./providers/data";
 import Dashboard from "./pages/dashboard";
 import { Layout } from "./components/refine-ui/layout/layout";
 import { Home, BookOpen } from "lucide-react";
-import { Sub } from "@radix-ui/react-dropdown-menu";
 import SubjectsCreate from "./pages/subjects/create";
 import SubjectsList from "./pages/subjects/list";
 
